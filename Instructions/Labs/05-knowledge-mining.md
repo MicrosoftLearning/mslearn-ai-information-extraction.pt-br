@@ -152,7 +152,7 @@ Agora que você tem os documentos, pode criar um indexador para extrair informa�
     - Executa o conjunto de habilidades cognitivas para gerar campos enriquecidos adicionais
     - Mapeia os campos extraídos para o índice.
     - Salva os ativos de dados extraídos no repositório de conhecimento.
-1. No painel de navegação à esquerda, em **Gerenciamento de pesquisa** exiba a página **Indexadores**, que deve mostrar o **margies-indexer** recém-criado. Aguarde alguns minutos e clique em **Atualizar &orarr;** até que o **Status** indique **Êxito**.
+1. No painel de navegação à esquerda, em **Gerenciamento de pesquisa** exiba a página **Indexadores**, que deve mostrar o **margies-indexer** recém-criado. Aguarde alguns minutos e clique em **&#8635; Atualizar** até que o **Status** indique **Êxito**.
 
 ## Pesquisar o índice
 
